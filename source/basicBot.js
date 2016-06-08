@@ -250,7 +250,7 @@
         settings: {
             botName: "AlternativeBOT",
             language: "portuguese",
-            chatLink: "https://rawgit.com/basicBot/source/master/lang/en.json",
+            chatLink: "https://rawgit.com/Shuwray/basicBot/master/source/lang/pt-BR.json",
             scriptLink: "https://rawgit.com/basicBot/source/master/basicBot.js",
             roomLock: false, // Requires an extension to re-load the script
             startupCap: 50, // 1-200
