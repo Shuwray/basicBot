@@ -2,7 +2,7 @@
     "room": "▲#AlternativeRock▲",
     "author": "Team ▲#AlternativeRock▲",
     "icon": null,
-    "css": "https://raw.githubusercontent.com/Shuwray/css/master/rock.css",
+    "css": "https://rawgit.com/Shuwray/css/master/rock.css",
     "rules": {
 "allowAutorespond":     true,
 "allowAutowoot":        true,
