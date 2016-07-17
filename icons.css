@@ -1,0 +1,16 @@
+/*STAFF*/
+/*BA: http://i.imgur.com/wJTv6Pd.png | */
+/*Shuwray*/
+[data-cid^="6732374-"] .msg .from .un{
+position:relative;
+left:-2.3px;
+padding-left:21px;
+background-image:url('https://static-cdn.jtvnw.net/emoticons/v1/14682/1.0');
+background-repeat:no-repeat;
+background-position:2px center;
+background-size:15px auto;
+}
+
+[data-cid^="6732374-"] span.un.clickable{
+color:#008B8B!important;
+}
